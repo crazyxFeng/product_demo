@@ -2,6 +2,7 @@
 npm run server
 
 配置maven镜像
+```
 <servers>
     <server>
         <id>skm-public</id>
@@ -22,3 +23,4 @@ npm run server
         <url>http://nexus.84deban.com/repository/skm-public/</url>
     </mirror>
 </mirrors>
+```
